@@ -56,11 +56,12 @@ body {
     box-shadow:0px 24px 48px 0 rgba(0,0,0,0.12);
 }
 
-.card > h2 {
+.cards h2 {
     color: #4c4e61;
+    font-size: 20px;
 }
 
-.card > p {
+.cards p {
     color: #697077;
     font-size: 15px;
 }
